@@ -14,7 +14,7 @@ Para accesar al proyecto solo es necesario realizar un git clone en una carpeta 
 
 ``` git clone ttps://github.com/JaimeCanedo/challenge-amigo-secreto.git ```
 
-<h4?> Despues podremos modificar la logica de nuestro archivo app.js que es donde se ejecutan todos los conocimientos aquiridos en los cursos anteriores de Alura Latam</h4>
+<h4> Despues podremos modificar la logica de nuestro archivo app.js que es donde se ejecutan todos los conocimientos aquiridos en los cursos anteriores de Alura Latam</h4>
 
 **Indica cómo se puede descargar o acceder al código fuente del proyecto, ya sea proyecto inicial o final**
 
