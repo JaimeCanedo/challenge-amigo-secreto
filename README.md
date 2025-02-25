@@ -5,8 +5,8 @@
 :hammer:Funcionalidades del proyecto
 
 - `Funcionalidad 1`: Prueba tus habilidades a traves del uso de arrays, funciones y ciclos con JavaScript
-`Funcionalidad 2`: Valida entrada de textos 
-`Funcionalidad 3`: Manejo de variables a traves de identificadores
+- `Funcionalidad 2`: Valida entrada de textos 
+- `Funcionalidad 3`: Manejo de variables a traves de identificadores
 
 \## 📁 Acceso al proyecto
 
