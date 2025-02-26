@@ -1,25 +1,46 @@
-<h1 allign="center"> CHALLENGE DEL AMIGO SECRETO </h1>
+# CHALLENGE DEL AMIGO SECRETO 🎁
 
-![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
+¡Bienvenido al proyecto **Challenge del Amigo Secreto**! Este proyecto es una aplicación simple en JavaScript que te permite realizar un sorteo de amigos secretos. A través de este desafío, podrás poner en práctica tus habilidades con arrays, funciones, ciclos y validación de entradas en JavaScript.
 
-:hammer:Funcionalidades del proyecto
+## 🔨 Funcionalidades del proyecto
 
-- `Funcionalidad 1`: Prueba tus habilidades a traves del uso de arrays, funciones y ciclos con JavaScript
-- `Funcionalidad 2`: Valida entrada de textos 
-- `Funcionalidad 3`: Manejo de variables a traves de identificadores
+El proyecto cuenta con las siguientes funcionalidades principales:
 
-\## 📁 Acceso al proyecto
+1. **Prueba tus habilidades con JavaScript**:  
+   Utiliza arrays, funciones y ciclos para realizar el sorteo de amigos secretos.
 
-<h4> 
-Para accesar al proyecto solo es necesario realizar un git clone en una carpeta local de nuestro equipo, como por ejemplo:
-</h4> 
+2. **Validación de entradas de texto**:  
+   Asegura que los nombres ingresados sean válidos y que no se repitan.
 
-``` git clone ttps://github.com/JaimeCanedo/challenge-amigo-secreto.git ```
+3. **Manejo de variables mediante identificadores**:  
+   Gestiona los nombres de los participantes y los asigna de manera aleatoria.
 
-<h4> Despues podremos modificar la logica de nuestro archivo app.js que es donde se ejecutan todos los conocimientos aquiridos en los cursos anteriores de Alura Latam</h4>
+## 📁 Acceso al proyecto
 
-**Indica cómo se puede descargar o acceder al código fuente del proyecto, ya sea proyecto inicial o final**
+Para acceder al proyecto, sigue estos pasos:
 
-\## 🛠️ Abre y ejecuta el proyecto
+1. Clona el repositorio en tu equipo local usando el siguiente comando:
+   git clone https://github.com/JaimeCanedo/challenge-amigo-secreto.git
+2. Navega a la carpeta del proyecto:
+    cd challenge-amigo-secreto
+3. Abre el archivo app.js en tu editor de código favorito para modificar la lógica del programa.
 
-**Muestra las instrucciones necesarias para abrir y ejecutar el proyecto**
+🛠️ Abre y ejecuta el proyecto
+Para ejecutar el proyecto, sigue estos pasos:
+1. Asegúrate de tener Node.js instalado en tu equipo.
+
+2. Abre una terminal en la carpeta del proyecto y ejecuta el siguiente comando para iniciar la aplicación:
+    node app.js
+
+3. Sigue las instrucciones en la terminal para ingresar los nombres de los participantes y realizar el sorteo.
+
+📸 Capturas de pantalla
+
+Paso 1: Ingresar los nombres de los participantes.
+![Ingresar nombres: en este caso el nombre a ingresar es Jaime](.//img/ingresar_nombres.png)
+
+Paso 2: Realizar el sorteo.
+![Sortear amigo secreto: en este caso la lista ya esta completa y haremos el respectivo sorteo](.//img/sortear.png)
+
+Paso 3: Ver los resultados.
+![El amigo secreto es Javier](.//img/resultados.png)
